@@ -1,0 +1,6 @@
+
+# Para ignorar os ficheiros tipo .docx
+*.docx
+
+# Para ignorar os ficheiros tipo .doc
+*.doc
